@@ -1,7 +1,5 @@
 ---
 title: "README - Socioeconomic deprivation and risk of early and late pre-eclampsia in England: a national population-based cohort study"
-output:
-  html_document: default
 ---
 
 # 1. Overview
